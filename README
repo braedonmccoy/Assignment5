@@ -1,0 +1,7 @@
+1. It doesn't matter the size of the file, as the loops are well written and can deal with any amount of data.
+2. There is no universal size, as long as the methods are well written, it can continue to grow indefinitely.
+3. As the word frequency increases, so does the chain length.
+4. The algorithm did not account for punctuation. So words with periods after them were counted seperately than the same word without the period.
+5. A simple, ordered approach made my hash table work. It had two choices, create a new slot or update an existing one.
+6. I had no real trouble on this assignment.
+7. The hash code is the most important part, if that is poorly designed, the hash table will not work right.
